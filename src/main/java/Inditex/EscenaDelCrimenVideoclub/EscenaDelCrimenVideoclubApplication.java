@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EscenaDelCrimenVideoclubApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EscenaDelCrimenVideoclubApplication.class, args);
+//		SpringApplication.run(EscenaDelCrimenVideoclubApplication.class, args);
+		System.out.println("Hello world");
+	}
 	}
 
-}
+
